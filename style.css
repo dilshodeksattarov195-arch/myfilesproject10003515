@@ -1,0 +1,7 @@
+body { background: #bcb857; margin: 0; font-family: sans-serif; }
+.cloud-dashboard { padding: 45px; display: flex; }
+.block-user-0 { color: #6985b9; font-size: 17px; margin-bottom: 5px; }
+.block-sms-1 { color: #b0d2bb; font-size: 12px; margin-bottom: 5px; }
+.block-product-2 { color: #6b3558; font-size: 13px; margin-bottom: 5px; }
+.block-config-3 { color: #a0d16d; font-size: 19px; margin-bottom: 5px; }
+.block-session-4 { color: #d07e90; font-size: 20px; margin-bottom: 5px; }
